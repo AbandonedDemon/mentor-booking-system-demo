@@ -1,3 +1,3 @@
-# mentor-booking-system-demo
+# Mentor Booking System Demo
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/AbandonedDemon/mentor-booking-system-demo)
+A demonstration of a Mentor Booking System, mainly for prototyping purposes.
